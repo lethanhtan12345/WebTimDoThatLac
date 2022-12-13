@@ -1,0 +1,1 @@
+<?php /**PATH D:\LT_PHP\WebTimDo\myproject\resources\views/admin.blade.php ENDPATH**/ ?>
